@@ -7,7 +7,7 @@ import Link from 'next/link'
 import DuckWalkingGIF from '@/images/common/duck-walking.gif'
 
 // Include in project
-import social from '@/lib/social'
+import social from '@/assets/social'
 
 const ContentSection: React.FC = () => {
   return (

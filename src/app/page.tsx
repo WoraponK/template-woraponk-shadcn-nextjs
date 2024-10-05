@@ -5,7 +5,7 @@ import { NextPage } from 'next'
 import React from 'react'
 
 // Include in project
-import { ContentSection } from '@/containers/home-page'
+import { ContentSection } from '@/containers/home'
 
 const Home: NextPage = () => {
   return (

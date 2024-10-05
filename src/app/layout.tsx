@@ -6,6 +6,7 @@ import { cn } from '@/lib/utils'
 
 const inter = Inter({ subsets: ['latin'] })
 
+// Include in project
 import { Navbar, Footer } from '@/components/shared'
 
 export const metadata: Metadata = {

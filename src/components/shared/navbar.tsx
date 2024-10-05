@@ -5,7 +5,7 @@ import Link from 'next/link'
 import React, { useEffect, useState } from 'react'
 
 // Include in project
-import path from '@/lib/path'
+import path from '@/assets/path'
 
 const Navbar: React.FC = () => {
   const [isShow, setIsShow] = useState(true)
